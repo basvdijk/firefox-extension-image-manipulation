@@ -1,6 +1,6 @@
 # Firefox image manipulation extension
 
-**This Firefox extension scales, rotates and flips images from the context-menu**
+**This Firefox context-menu extension scales, rotates and flips images***
 
 ## Background
 I wanted to know what it took to develop a Firefox extension which could manipulate images. This repo is the result. I was quite surprised how well Mozilla [documented](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions) the development process. Another great help is their [repo](https://github.com/mdn/webextensions-examples) full with [example code](https://github.com/mdn/webextensions-examples).
