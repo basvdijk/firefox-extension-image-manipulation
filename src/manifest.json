@@ -1,0 +1,21 @@
+{
+  "description": "__MSG_extensionDescription__",
+  "manifest_version": 2,
+  "name": "__MSG_extensionName__",
+  "version": "1.0",
+  "default_locale": "en",
+  "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/borderify",
+  "icons": {
+    "48": "icons/icon-48.png",
+    "96": "icons/icon-96.png"
+  },
+  "permissions": [
+    "menus",
+    "activeTab"
+  ],
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  }
+}

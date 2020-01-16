@@ -1,0 +1,53 @@
+{
+    "extensionName": {
+      "message": "Afbeelding manipulatie",
+      "description": "Name of the extension."
+    },
+  
+    "extensionDescription": {
+      "message": "Roteren, spiegelen of schalen van afbeeldingen",
+      "description": "Description of the add-on."
+    },
+      
+    "menuItemScaleFitWidth": {
+      "message": "Schaal passend breedte",
+      "description": "Scales the afbeelding to fit the width"
+    },
+  
+    "menuItemScaleFitHeight": {
+      "message": "Schaal passend hoogte",
+      "description": "Scales the afbeelding to fit the height"
+    },
+  
+    "menuItemFlipHorizontally": {
+      "message": "Spiegel horizontaal",
+      "description": "Flips the afbeelding horizontally"
+    },
+  
+    "menuItemFlipVertically": {
+      "message": "Spiegel horizontaal",
+      "description": "Flips the afbeelding vertically"
+    },
+  
+    "menuItemRotate0": {
+      "message": "Roteer 0°",
+      "description": "Rotates the afbeelding 0 degrees"
+    },
+
+    "menuItemRotate90": {
+      "message": "Roteer 90°",
+      "description": "Rotates the afbeelding 90 degrees"
+    },
+
+    "menuItemRotate180": {
+      "message": "Roteer 180°",
+      "description": "Rotates the afbeelding 180 degrees"
+    },
+
+    "menuItemRotate270": {
+      "message": "Roteer 270°",
+      "description": "Rotates the afbeelding 270 degrees"
+    }
+  
+  }
+  

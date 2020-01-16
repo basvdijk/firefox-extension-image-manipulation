@@ -1,0 +1,53 @@
+{
+    "extensionName": {
+      "message": "Image manipulation",
+      "description": "Name of the extension."
+    },
+  
+    "extensionDescription": {
+      "message": "Rotates, flips and scales images.",
+      "description": "Description of the add-on."
+    },
+      
+    "menuItemScaleFitWidth": {
+      "message": "Scale fit width",
+      "description": "Scales the image to fit the width"
+    },
+  
+    "menuItemScaleFitHeight": {
+      "message": "Scale fit height",
+      "description": "Scales the image to fit the height"
+    },
+  
+    "menuItemFlipHorizontally": {
+      "message": "Flip horizontally",
+      "description": "Flips the image horizontally"
+    },
+  
+    "menuItemFlipVertically": {
+      "message": "Flip vertically",
+      "description": "Flips the image vertically"
+    },
+  
+    "menuItemRotate0": {
+      "message": "Rotate 0°",
+      "description": "Rotates the image 0 degrees"
+    },
+
+    "menuItemRotate90": {
+      "message": "Rotate 90°",
+      "description": "Rotates the image 90 degrees"
+    },
+
+    "menuItemRotate180": {
+      "message": "Rotate 180°",
+      "description": "Rotates the image 180 degrees"
+    },
+
+    "menuItemRotate270": {
+      "message": "Rotate 270°",
+      "description": "Rotates the image 270 degrees"
+    }
+  
+  }
+  

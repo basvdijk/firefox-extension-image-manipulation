@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1134 1134" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1.0498,0,0,2.7018,-28.2344,-1861.1)">
+        <rect x="26.895" y="688.835" width="1080.07" height="418.128" style="fill:rgb(156,193,221);"/>
+    </g>
+    <g transform="matrix(1.0498,0,0,1.0498,-28.2344,-32.3946)">
+        <path d="M26.895,499.864L223.528,193.963L446.359,644.794L630.892,499.864L840.89,644.794L1017.55,587.356L1106.96,688.835L1106.96,834.081L26.895,834.081L26.895,499.864Z" style="fill:rgb(151,151,151);"/>
+    </g>
+    <g transform="matrix(1.0498,0,0,0.795983,-28.2344,252.735)">
+        <rect x="26.895" y="688.835" width="1080.07" height="418.128" style="fill:url(#_Linear1);"/>
+    </g>
+    <g transform="matrix(0.724413,0,0,0.724413,308.552,-62.7858)">
+        <circle cx="888.476" cy="323.04" r="129.077" style="fill:url(#_Radial2);"/>
+    </g>
+    <path d="M101.754,333.001L205.393,171.229L288.384,333.001L220.78,286.113L189.507,313.864L177.178,295.012L156.527,313.864L142.212,303.947L101.754,333.001Z" style="fill:white;"/>
+    <g transform="matrix(0.933834,-0.0605089,0.0263789,0.407105,440.509,432.242)">
+        <path d="M101.754,333.001L205.393,171.229L288.384,333.001L220.78,286.113L189.507,313.864L177.178,295.012L156.527,313.864L142.212,303.947L101.754,333.001Z" style="fill:white;"/>
+    </g>
+    <g transform="matrix(0.904122,0.241394,-0.105236,0.394152,878.215,461.186)">
+        <path d="M117.984,310.839L205.393,171.229L252.633,266.606L216.074,262.987L208.574,312.786L191.541,273.736L172.866,304.993L156.977,286.958L117.984,310.839Z" style="fill:white;"/>
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2.81841,-412.901,313.071,3.71714,492.439,1101.74)"><stop offset="0" style="stop-color:rgb(156,207,128);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(61,136,33);stop-opacity:1"/></linearGradient>
+        <radialGradient id="_Radial2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(129.077,0,0,129.077,888.476,323.04)"><stop offset="0" style="stop-color:rgb(255,215,0);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(255,185,0);stop-opacity:1"/></radialGradient>
+    </defs>
+</svg>
