@@ -33,7 +33,7 @@ npx web-ext -s src run
 
 This will open a new Firefox instance with the plugin loaded.
 
-# Learn about Firefox extention development
+# Learn about Firefox extension development
 
 These links were very useful when learning to make this Firefox extension:
 - [Anatomy of an extension](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Anatomy_of_a_WebExtension#Background_scripts)
