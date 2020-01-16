@@ -4,9 +4,7 @@
 
 I wanted to know what it took to develop a Firefox extension which could manipulate images. This repo is the result. I was quite surprised how well Mozilla [documented](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions) the development process. Another great help is their [repo](https://github.com/mdn/webextensions-examples) full with [example code](https://github.com/mdn/webextensions-examples).
 
-In two hours I had the basic working. The hardest part was to figure out how to get access to the image and manipulate it.
-
-At the bottom of this readme you'll find the links I used for developing this extension.
+In two hours I had the image flipping working. The hardest part was to figure out how to get access to the image so I could manipulate it. At the bottom of this readme you'll find the links I used for developing this extension.
 
 ## Features
 
