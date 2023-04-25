@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "web-ext": "^4.0.0"
+    "web-ext": "^4.3.0"
   }
 }
